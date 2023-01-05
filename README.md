@@ -21,7 +21,7 @@
 - I live in Bekasi, Indonesia
 - Currently learning UI/UX Design & Frontend develop
 - How to reach me (fitrianidevv11@gmail.com) 
-- I’m currently open for an Intern or a new job opportunity, this is [my resume]([https://portofolio-devifitriyani.netlify.app/])
+- I’m currently open for an Intern or a new job opportunity, this is [my resume]((https://portofolio-devifitriyani.netlify.app/))
 
 <br><br>
 
